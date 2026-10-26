@@ -68,12 +68,4 @@ The project was delivered in five documents, all in Italian:
 4. [Development](docs/D4-development.pdf): user flows, API documentation, testing
 5. [Final report](docs/D5-final-report.pdf): team organisation and workload
 
-## Team
-
-- **Alessio Novel**: project lead, front end, API edge cases
-- **Alessia Laghezza**: API development, class diagram
-- **Anna Metelli**: analysis, front-end design, documentation
-
-The original team repository is [SaveTheMeal/Web-API](https://github.com/SaveTheMeal/Web-API). The Heroku deployment it mentions is no longer online.
-
 The code identifiers and the interface are in Italian.
