@@ -68,4 +68,10 @@ The project was delivered in five documents, all in Italian:
 4. [Development](docs/D4-development.pdf): user flows, API documentation, testing
 5. [Final report](docs/D5-final-report.pdf): team organisation and workload
 
+There is also an [early system sketch](docs/early-system-sketch.jpeg) from October 2022. It is a first draft: the integrations it shows (PayPal, Google Maps, Gmail) were not implemented in the final app.
+
 The code identifiers and the interface are in Italian.
+
+## Authors
+
+Alessia Laghezza, Alessio Novel, Anna Metelli
